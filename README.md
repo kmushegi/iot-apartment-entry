@@ -21,5 +21,5 @@ This system was hacked together quickly to provide an immediate solution. Pollin
 
 Top View                     |  Sideview                       | Simple GUI
 :---------------------------:|:--------------------------:|:-----------------------------:
-<img src="./images/topdown.jpg" width="450">  |  <img src="./images/sideview.jpg" width="450"> | <img src="./images/gui.jpg" width="450">
+<img src="images/topdown.JPG" width="450">  |  <img src="images/sideview.JPG" width="450"> | <img src="images/gui.jpg" width="450">
 
