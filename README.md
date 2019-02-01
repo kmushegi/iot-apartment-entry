@@ -19,7 +19,7 @@ This system was hacked together quickly to provide an immediate solution. Pollin
 
 ## Images
 
-Top View                     |  Sideview                       | Simple GUI
+Top View                     |  Side View                       | Simple GUI
 :---------------------------:|:--------------------------:|:-----------------------------:
 <img src="images/topdown.JPG" width="450">  |  <img src="images/sideview.JPG" width="450"> | <img src="images/gui.jpg" width="450">
 
